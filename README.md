@@ -1,34 +1,40 @@
-# Seja bem vindo!
-Durante minha retomada aos estudos para ingressar de vez no mercado de tecnologia, me deparei com uma dúvida: qual é a melhor maneira de aprender?  
+# Welcome!
+During my studies to improve my skills and prepare for tech companies, I came across a question: what is the best way to learn?
   
-Alguns defendem a teoria, outros a prática e o desenvolvimento de projetos reais. Então, decidi unir ambos os caminhos inspirado por um princípio de Sêneca, no século I:
+Some would say the best way is trying the teory first, others would say going to pratice with real projects. So, I merged it with Sêneca principles, in 1st centry, that say:
 > **Homines, dum docent, discunt.  
-"Os homens aprendem enquanto ensinam."**
+"People learn while they teach"**
 
-Este repositório reúne tudo o que venho absorvendo durante meus estudos, com a esperança de que esse material também possa auxiliar outras pessoas em suas jornadas.  
+This repository contains all my lessions, and I hope it can help others to improve themselves and maybe guide their journey.
 
-## 🎯 Objetivo
-Construir uma base sólida em desenvolvimento combinando teoria, prática e exercícios.  
-## 🧭 Método
-Cada tópico será dividido em 3 partes:  
+## 🏛️ Philosophy
+
+I believe knowledge becomes stronger when shared.
+
+Inspired by Seneca's principle *"People learn while they teach"*, this repository is more than a collection of notes. It is my journey to revisit computer science fundamentals while creating resources that may help others learn as well.
+
+## 🎯 Objective
+Reinforce knowledge to be a developer starting from the fundamentals by theory, practice and challenges.  
+## 🧭 Method
+Each topic would be divided in 3 parts:    
   
-* **📖 Teoria →** Arquivos *.md*
-* **💻 Exemplos →** Arquivos *.py*
-* **📝 Exercícios →** Arquivos *.py*
+* **📖 Theory →** *.md* files.
+* **💻 Examples →** *.py* files.
+* **🏆 Challenges →** *.py* files.
   
-## 🚀 Progresso
+## 🚀 Progress
 
-### 1. Fundamentos
+### 1. Foundation
 
-* <kbd>✓</kbd> Variáveis e tipos
-* <kbd> </kbd> Operadores
-* <kbd> </kbd> Entrada e saída
-* <kbd> </kbd> Condicionais
+* <kbd>✓</kbd> Variables and types
+* <kbd> </kbd> Operators
+* <kbd> </kbd> Input and output
+* <kbd> </kbd> Conditionals
 * <kbd> </kbd> Loops
-* <kbd> </kbd> Funções
-* <kbd> </kbd> Escopo
-* <kbd> </kbd> Tratamento de erros
-* <kbd> </kbd> Módulos
-* <kbd> </kbd> Manipulação de arquivos
+* <kbd> </kbd> Functions
+* <kbd> </kbd> Scope
+* <kbd> </kbd> Debugging
+* <kbd> </kbd> Module
+* <kbd> </kbd> File handling
 
-### **Bons estudos!📚** 
+### Happy learning! 📚 
