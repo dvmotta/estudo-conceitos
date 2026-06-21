@@ -27,7 +27,7 @@ Cada tópico será dividido em 3 partes:
 ### 1. Fundamentos
 
 * <kbd>✓</kbd> Variáveis e tipos
-* <kbd> </kbd> Operadores
+* <kbd>✓</kbd> Operadores
 * <kbd> </kbd> Entrada e saída
 * <kbd> </kbd> Condicionais
 * <kbd> </kbd> Loops
